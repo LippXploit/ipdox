@@ -31,11 +31,11 @@ USAGE:
 ## SETUP
 1. DOWNLOAD THE TOOL
 ```
-$ git clone https://github.com/HPx12/Doxx/
+$ git clone https://github.com/LippXploit/ipdox
 ```
 2. GO TO THE DIRECTORY OF THE TOOL
 ```
-$ cd Doxx
+$ cd ipdox
 ```
 3. INSTALL REQUIREMENTS
 ```
